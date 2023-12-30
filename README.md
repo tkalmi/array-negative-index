@@ -16,7 +16,7 @@ For development purposes, we run tests using NodeJS's internal test runner.
 ## Installation
 
 > [!NOTE]
-> This project is not meant to be ran in production. Use at your own risk.
+> This project is not meant to be used in production. Use at your own risk.
 
 Just install the package to your node project via npm:
 

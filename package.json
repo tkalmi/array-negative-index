@@ -1,0 +1,19 @@
+{
+  "name": "array-negative-index",
+  "version": "1.0.0",
+  "description": "This module exports a method to make arrays accept negative indexes. Comes with Snake-like looping teleportation.",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --test index.test.mjs"
+  },
+  "keywords": [
+    "array",
+    "negative",
+    "index",
+    "python-like"
+  ],
+  "author": "tkalmi",
+  "license": "MIT",
+  "homepage": "https://github.com/tkalmi/array-negative-index"
+}
